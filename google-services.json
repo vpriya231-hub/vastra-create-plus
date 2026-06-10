@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "110782823215",
+    "project_id": "v-astra-create",
+    "storage_bucket": "v-astra-create.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110782823215:android:77f8357842db25183fbfda",
+        "android_client_info": {
+          "package_name": "com.vastra.create"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTx1iiUW3cGJrS-NJHm_tKUNjnrV6JcH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
